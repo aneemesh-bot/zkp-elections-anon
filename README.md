@@ -1,4 +1,4 @@
-# ZKP Elections — Anonymous Verifiable Election Prototype
+# Zero-Knowledge Proof Elections: Anonymous Verifiable Election Prototype
 
 A research prototype of an anonymous, publicly verifiable election system built on **Bulletproofs** zero-knowledge proofs over the **secp256k1** elliptic curve. Votes are cryptographically committed so the tally is publicly verifiable without revealing any individual ballot.
 
