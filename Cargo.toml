@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "crypto_primitives",
+    "bulletproofs_core",
+    "vote_producer",
+    "consumer_service",
+    "integration_tests",
+]
+resolver = "2"
